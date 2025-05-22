@@ -1,1 +1,1 @@
-[Angular website]("https://personal-expensetracker-frontend.vercel.app/")
+"https://personal-expensetracker-frontend.vercel.app/"
